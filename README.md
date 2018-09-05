@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-04 23:19:10, I have solved **6** / **847** problems while **139** are still locked.
+Until 2018-09-05 22:37:42, I have solved **7** / **847** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 6
+4. Java: 7
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -18,7 +18,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Character\Solution.java)|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Array\Solution.java)|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substrin\Solution.java)|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/006.%20ZigZag%20Conversio\Solution.java)|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/007.%20Reverse%20Intege\Solution.java)|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
