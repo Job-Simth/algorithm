@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-09-05 22:37:42, I have solved **7** / **847** problems while **139** are still locked.
+Until 2018-10-03 13:55:52, I have solved **8** / **863** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 7
+4. Java: 8
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -20,7 +20,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substrin\Solution.java)|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/006.%20ZigZag%20Conversio\Solution.java)|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/007.%20Reverse%20Intege\Solution.java)|
-|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/Job-Simth/algorithm/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi\Solution.java)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -599,7 +599,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |Easy|To Do|To Do|To Do|To Do|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|To Do|To Do|To Do|To Do|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
@@ -860,3 +860,19 @@ Note: :lock: means you need to buy a book from LeetCode
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |Medium|To Do|To Do|To Do|To Do|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) |Hard|To Do|To Do|To Do|To Do|
+|900|[RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) |Medium|To Do|To Do|To Do|To Do|
+|902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) |Hard|To Do|To Do|To Do|To Do|
+|903|[Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |Medium|To Do|To Do|To Do|To Do|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) |Easy|To Do|To Do|To Do|To Do|
+|906|[Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) |Hard|To Do|To Do|To Do|To Do|
+|907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) |Medium|To Do|To Do|To Do|To Do|
+|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) |Easy|To Do|To Do|To Do|To Do|
+|909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) |Medium|To Do|To Do|To Do|To Do|
+|910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|911|[Online Election](https://leetcode.com/problems/online-election/description/) |Medium|To Do|To Do|To Do|To Do|
+|913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/) |Hard|To Do|To Do|To Do|To Do|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|To Do|To Do|To Do|To Do|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
+|916|[Word Subsets](https://leetcode.com/problems/word-subsets/description/) |Medium|To Do|To Do|To Do|To Do|
