@@ -1,5 +1,6 @@
 class Solution {
     public int myAtoi(String str) {
+        str = str.trim();
         int i = 0;
         int flag = 0;
         double count = 0;
@@ -18,7 +19,6 @@ class Solution {
                 break;
             }
         }
-
         if (-1 == flag) {
             count = count * (-1);
             if (count < Integer.MIN_VALUE) {
